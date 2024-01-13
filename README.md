@@ -15,14 +15,15 @@ Além disso, necessário calcular as métricas dos indicadores dos clientes:
  - R (Recency): Tempo que o cliente realizou a última compra (em dias);
  - F (Frequency): Quantidade de compras realizadas pelo cliente;
  - M (Monetary): Valor do ticket médio gasto pelo cliente, onde ticket médio = média do total gasto por pedido para cada cliente.
+<br>
+<div>
+    Fonte de dados: https://www.kaggle.com/datasets/carrie1/ecommerce-data
+<div><br>
 
 Análise adotada, utiliza a metodologia CRISP DM - Cross Industry Standard Process for Data Mining.    
 
 <img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/b757828b-dc53-43a3-aaf5-dd52375f89e8" width="80"><br>
 
-<div>
-    Fonte de dados: https://www.kaggle.com/datasets/carrie1/ecommerce-data
-<div>
 
 Tecnologias utlizadas:
 <table border="0" style="border-collapse: collapse; border: none;">
